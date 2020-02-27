@@ -1,0 +1,6 @@
+node_modules/
+build/
+dist/*
+!dist/_redirects
+.cache/
+package-lock.json
